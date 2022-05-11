@@ -1,3 +1,6 @@
+Version 2.3.1 / 2022/05/2011
+  * Updated to use the centric_page_navigation 0.12+ cascade dependency on centric_data_magic
+
 Version 2.3.1 / 2021/03/19
 * Fixes
   * Removed dependency on Selenium-WebDriver v3
